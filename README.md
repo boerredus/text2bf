@@ -1,4 +1,4 @@
-# text2brainfuck #
+# text2bf #
 
 This python script takes user input and turn it into brainfuck readable data (in the most memory-wise method, using only a single memory slot).
 <br><br>
